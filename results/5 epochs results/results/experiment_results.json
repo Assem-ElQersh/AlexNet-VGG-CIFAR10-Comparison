@@ -1,0 +1,30 @@
+{
+    "AlexNet": {
+        "parameters": 23238474,
+        "test_accuracy": 55.81,
+        "train_accuracy": 0.5218200000000001,
+        "val_accuracy": 0.5581,
+        "time_per_epoch": 38.437628173828124
+    },
+    "VGG-16": {
+        "parameters": 33638218,
+        "test_accuracy": 10.0,
+        "train_accuracy": 0.09934000000000001,
+        "val_accuracy": 0.1,
+        "time_per_epoch": 50.44236712455749
+    },
+    "VGG-16 BN": {
+        "parameters": 33646666,
+        "test_accuracy": 83.29,
+        "train_accuracy": 0.8415800000000001,
+        "val_accuracy": 0.8329000000000001,
+        "time_per_epoch": 51.61500992774963
+    },
+    "VGG-8": {
+        "parameters": 13119050,
+        "test_accuracy": 36.92,
+        "train_accuracy": 0.32376000000000005,
+        "val_accuracy": 0.36920000000000003,
+        "time_per_epoch": 43.84871778488159
+    }
+}
