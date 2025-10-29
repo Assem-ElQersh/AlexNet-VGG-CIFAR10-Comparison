@@ -68,13 +68,7 @@ To run the code:
    ```
 3. Open and run the notebook in `src/implementations.ipynb`
 
-## Future Work
-
-- Implement other modern architectures (ResNet, EfficientNet)
-- Apply advanced regularization techniques
-- Explore performance on other datasets
-- Implement attention mechanisms
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+
